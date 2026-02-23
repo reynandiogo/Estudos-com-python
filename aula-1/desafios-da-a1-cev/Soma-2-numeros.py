@@ -1,0 +1,5 @@
+n1 = input('digite um numero inteiro  ')
+n2 = input('digite mais um numero inteiro  ')
+n1f = int(n1)
+n2f = int(n2)
+print('a soma de '+n1+' e '+n2+' é',n1f+n2f)
