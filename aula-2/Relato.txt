@@ -1,0 +1,6 @@
+Nós anteriormente vimos os assuntos de variáveis
+, Concatenação usando , ou + , o uso da função input e a função print()
+
+Agora veremos sobre tipos de dados e como fazer
+a manipulação e conversão deles e o uso de seus 
+métodos
